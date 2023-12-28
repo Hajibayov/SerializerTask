@@ -1,0 +1,14 @@
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\SerializerTask\SerializerTask\bin\Debug\net6.0\SerializerTask.exe
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\SerializerTask\SerializerTask\bin\Debug\net6.0\SerializerTask.deps.json
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\SerializerTask\SerializerTask\bin\Debug\net6.0\SerializerTask.runtimeconfig.json
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\SerializerTask\SerializerTask\bin\Debug\net6.0\SerializerTask.dll
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\SerializerTask\SerializerTask\bin\Debug\net6.0\SerializerTask.pdb
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\SerializerTask\SerializerTask\obj\Debug\net6.0\SerializerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\SerializerTask\SerializerTask\obj\Debug\net6.0\SerializerTask.AssemblyInfoInputs.cache
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\SerializerTask\SerializerTask\obj\Debug\net6.0\SerializerTask.AssemblyInfo.cs
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\SerializerTask\SerializerTask\obj\Debug\net6.0\SerializerTask.csproj.CoreCompileInputs.cache
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\SerializerTask\SerializerTask\obj\Debug\net6.0\SerializerTask.dll
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\SerializerTask\SerializerTask\obj\Debug\net6.0\refint\SerializerTask.dll
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\SerializerTask\SerializerTask\obj\Debug\net6.0\SerializerTask.pdb
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\SerializerTask\SerializerTask\obj\Debug\net6.0\SerializerTask.genruntimeconfig.cache
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\SerializerTask\SerializerTask\obj\Debug\net6.0\ref\SerializerTask.dll
